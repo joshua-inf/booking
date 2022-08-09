@@ -1,0 +1,13 @@
+.top-nav {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(../resources/cover1.jpg);
+    background-color: black;
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.btn-fixed{
+    position: fixed;
+    bottom: 50%;
+    right: 20px;
+}
